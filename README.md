@@ -1,2 +1,2 @@
-# php-e-base-de-dados
-PHP, SQL, MySQL - A base de dados é importante para o back-end e eu estava insatisfeito em aprender banco de dados que aprendi PHP junto pois vi que ajudava a desenvolver melhor comunicações do Front com o Back
+# Projeto dificuldade Expert 1 - Aplicativo de Entrega Sob demanda: 
+Um aplicativo semelhante ao Uber Eats, utilizando arquitetura escalável, Node.js, Express, banco de dados (SQL ou NoSQL), e integração de mapas.
