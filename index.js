@@ -1,1 +1,1 @@
-
+/*Ativar o DOOM e manipular o HTML e CSS apartir do JavaScript*/
