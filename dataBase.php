@@ -1,3 +1,5 @@
 <php?>
 
 /*CRIAR BASE DE DADOS*/
+
+/*GERENCIAR DADOS*/
