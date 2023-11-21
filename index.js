@@ -15,5 +15,5 @@
 /*Diretorios*/
 
 
-/*Arquitetura*/
+/*Arquitetura de  diretorios*/
 
